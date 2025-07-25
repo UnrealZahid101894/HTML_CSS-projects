@@ -5,7 +5,7 @@ Each project is organized in its own folder with clean code and can be easily pr
 
 ---
 
-## \ud83d\ude80 Live Demos
+## Live Demos
 
 | Project Name       | Live Preview                                                                 |
 |--------------------|------------------------------------------------------------------------------|
@@ -15,7 +15,7 @@ Each project is organized in its own folder with clean code and can be easily pr
 
 ---
 
-## \ud83d\udcc1 Project Structure
+## Project Structure
 
 ```
 HTML_CSS-projects/
@@ -35,7 +35,7 @@ Each folder contains all necessary files for that specific project.
 
 ---
 
-## \ud83d\udee0 Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -44,7 +44,7 @@ Each folder contains all necessary files for that specific project.
 
 ---
 
-## \u2728 Getting Started
+## Getting Started
 
 1. Clone the repository:
    ```
@@ -54,7 +54,7 @@ Each folder contains all necessary files for that specific project.
 
 ---
 
-## \ud83d\udce2 Contributions
+## Contributions
 
 Feel free to fork the repository and submit pull requests with improvements or new projects!
 
