@@ -9,10 +9,10 @@ Each project is organized in its own folder with clean code and can be easily pr
 
 | Project Name       | Live Preview                                                                 |
 |--------------------|------------------------------------------------------------------------------|
-| Basic Landing Page | [View](https://html-css-projects-steel.vercel.app/)                          |
-| Project 2          | [View](https://html-css-projects-t5zs.vercel.app/)                           |
-| More Coming Soon   | Stay tuned...                                                                |
-
+| Catphoto           | [View](https://html-css-projects-steel.vercel.app/)                          |
+| Coffeemaking       | [View](https://html-css-projects-t5zs.vercel.app/)                           |
+| Travel_Agency      | [View](https://travelagencyweb.vercel.app/)                                  |                    |
+| Coming soon.....   | >_<
 ---
 
 ## Project Structure
