@@ -11,8 +11,9 @@ Each project is organized in its own folder with clean code and can be easily pr
 |--------------------|------------------------------------------------------------------------------|
 | Catphoto           | [View](https://html-css-projects-steel.vercel.app/)                          |
 | Coffeemaking       | [View](https://html-css-projects-t5zs.vercel.app/)                           |
-| Travel_Agency      | [View](https://travelagencyweb.vercel.app/)                                  |                    |
-| Coming soon.....   | >_<
+| Travel_Agency      | [View](https://travelagencyweb.vercel.app/)                                  |
+| Front end          | [View](https://html-css-projects-i8y6.vercel.app/)                           |
+| Coming soon.....   | >_<                                                                          |
 ---
 
 ## Project Structure
