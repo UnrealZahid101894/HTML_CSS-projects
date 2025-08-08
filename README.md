@@ -13,7 +13,7 @@ Each project is organized in its own folder with clean code and can be easily pr
 | Coffeemaking       | [View](https://html-css-projects-t5zs.vercel.app/)                           |
 | Travel_Agency      | [View](https://travelagencyweb.vercel.app/)                                  |
 | Front end          | [View](https://html-css-projects-i8y6.vercel.app/)                           |
-| cafe menu          | [View](https://html-css-projects-o8fj-96b9gl17g.vercel.app/)                 |
+| cafe menu          | [View](https://html-css-projects-al9n.vercel.app/)                           |
 | Coming soon.....   | >_<                                                                          |
 ---
 
