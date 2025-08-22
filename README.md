@@ -1,4 +1,4 @@
-# HTML_CSS-projects
+# Front end-projects
 This repository contains a collection of beginner-to-intermediate level HTML and CSS projects built for learning, practicing, and showcasing frontend skills.
 
 Each project is organized in its own folder with clean code and can be easily previewed live via Vercel.
